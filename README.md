@@ -1,4 +1,4 @@
-<h1>Name</h1>	
+<h2>Name</h2>	
 <p>Hello World!</p>
 <h2>Description</h2>
 <p>This is a website with information about Ilse's personal info and work.</p>
@@ -10,5 +10,5 @@
 <p>This page will be updated every month with new information about Ilse</p>
 <h2>Project status</h2>
 <p>In progress</p>
-<h3>License information </h3>
+<h2>License information </h2>
 <p>Protected by copyright</p>
